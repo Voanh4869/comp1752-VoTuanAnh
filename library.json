@@ -1,0 +1,27 @@
+{
+    "01": {
+        "title": "Another Brick in the Wall",
+        "artist": "Pink Floyd",
+        "rating": 4
+    },
+    "02": {
+        "title": "Stayin' Alive",
+        "artist": "Bee Gees",
+        "rating": 5
+    },
+    "03": {
+        "title": "Highway to Hell",
+        "artist": "AC/DC",
+        "rating": 2
+    },
+    "04": {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "rating": 1
+    },
+    "05": {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "rating": 3
+    }
+}
